@@ -17,7 +17,7 @@ The calculator supports fundamental arithmetic operations including *addition, s
 
 ## 🛠 Tech Stack
 - *Language:* Java  
-- *Concepts Used:* Classes, Objects, Methods, Exception Handling  
+- *Concepts Used:* Classes, Objects, Methods. 
 
 ---
 
